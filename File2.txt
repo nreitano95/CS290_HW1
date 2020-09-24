@@ -1,0 +1,4 @@
+This repository is created for HW 1 for CS 290.
+
+As a part of the requirements, I have included 2 arbitrary files: This text file and 
+an ASCII art file of Dwight Schrute.
